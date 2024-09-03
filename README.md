@@ -24,8 +24,8 @@ Code Snippet because why not: <br/>
 print("Hello World")
 ````
 <br/>
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+How the File Mover works: <br/>
+<img src="https://imgur.com/oBcfJZd.png" height="80%" width="80%" alt="File Mover Page 1"/>
 <br />
 <br />
 Select the disk:  <br/>
